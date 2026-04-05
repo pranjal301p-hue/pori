@@ -1,0 +1,7 @@
+{
+  "name": "Lasari Digital Portfolio",
+  "description": "Modern portfolio for Pranjal Saikia - App Developer, Web Developer, and Digital Creator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
